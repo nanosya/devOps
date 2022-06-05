@@ -1,1 +1,1 @@
-belajar devOps
+belajar devOps secara mandiri
